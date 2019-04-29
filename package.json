@@ -1,0 +1,19 @@
+{
+  "name": "angular-ui-bootstrap",
+  "version": "0.8.1",
+  "description": "Bootstrap widgets for Angular",
+  "main": "ui-bootstrap-tpls.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alorraib/bootstrap-bower.git"
+  },
+  "author": "https://github.com/angular-ui/bootstrap/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alorraib/bootstrap-bower/issues"
+  },
+  "dependencies": {
+    "angular": ">=1"
+  }  
+  "homepage": "https://github.com/alorraib/bootstrap-bower#readme"
+}
